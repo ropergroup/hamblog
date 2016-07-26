@@ -1,3 +1,4 @@
 == README
 
 Simple Blog app. Blog entries must be made from the rails console. This is my fake rails app.
+This blog is not very interesting.
